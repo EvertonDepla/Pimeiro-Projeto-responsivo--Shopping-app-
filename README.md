@@ -10,6 +10,10 @@
   <p>-Git</p>
 </h2>
 
+<h3 align="center"> Versão Desktop</h3>
+
 <img src="https://github.com/EvertonDepla/Pimeiro-Projeto-responsivo--Shopping-app-/blob/main/assets/shopping%20app1.PNG?raw=true" alt="print-site1">
 
-<img src="" alt="print-site2">
+<h3 align="center"> Versão Mobile</h3>
+
+<img src="https://github.com/EvertonDepla/Pimeiro-Projeto-responsivo--Shopping-app-/blob/main/assets/shooping%20app2.PNG?raw=true" alt="print-site2" width="400px">
