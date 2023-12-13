@@ -17,3 +17,8 @@
 <h3 align="center"> Versão Mobile</h3>
 
 <img src="https://github.com/EvertonDepla/Pimeiro-Projeto-responsivo--Shopping-app-/blob/main/assets/shooping%20app2.PNG?raw=true" alt="print-site2" width="400px">
+ <p>
+
+Acesso ao projeto <a href="https://evertondepla.github.io/Shopping-app/">Clique Aqui <a>
+  
+ </p>
