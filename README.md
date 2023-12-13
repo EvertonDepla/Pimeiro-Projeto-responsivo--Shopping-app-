@@ -10,6 +10,6 @@
   <p>-Git</p>
 </h2>
 
-<img src="" alt="print-site1">
+<img src="https://github.com/EvertonDepla/Pimeiro-Projeto-responsivo--Shopping-app-/blob/main/assets/shopping%20app1.PNG?raw=true" alt="print-site1">
 
 <img src="" alt="print-site2">
